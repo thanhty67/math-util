@@ -7,6 +7,6 @@
 * ...
 
 ### Screenshots
-![DDT-JUnit]https://github.com/thanhty67/math-util/blob/main/image/DDT-JUnit.png
+![DDT-JUnit](https://github.com/thanhty67/math-util/blob/main/image/DDT-JUnit.png)
 
 #### © 2022 thanhty67
