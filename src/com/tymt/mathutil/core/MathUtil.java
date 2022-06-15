@@ -50,6 +50,10 @@ public class MathUtil {
     //Chốt hạ: n! = n * (n-1)!
     public static long getFactiorial(int n) {
         
+        if (n < 0 || n > 20) {
+            throw new IllegalArgumentException("Invalid Arrgument. N mus in 0...20");
+        }
+        
         if (n == 0 || n == 1) {
             return 1; //kết thúc cuộc chơi nhận vào các đầu vào đặc biệt
         }
